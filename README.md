@@ -1,0 +1,2 @@
+# fundamental-of-computer-programming-for-pre-engineering-students
+**Fundamentals of Computer Programming for Pre-Engineering Students** — A beginner-friendly learning resource designed to introduce pre-engineering students to core programming concepts, problem-solving techniques, algorithms, and practical coding skills through structured lessons, examples, exercises, and interactive programming activities.
